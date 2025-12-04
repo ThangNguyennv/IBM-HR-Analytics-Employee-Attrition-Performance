@@ -47,7 +47,7 @@ jupyter-notebook
 
 ## Các mô hình được sử dụng trong dự án
 
-`Naive Bayes`, `XGBoost`, `Perceptron`
+`Naive Bayes`, `Random Forest`, `Perceptron`
 
 ## Đánh giá mô hình
 
